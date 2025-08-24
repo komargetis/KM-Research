@@ -1,8 +1,12 @@
 **MSc Thesis: Escape mechanisms for P-type exoplanets in binary star systems**
+
 **Supervisor(s):** Dr. Matthaios Katsanikas (primary), Dr. Kosmas Gazeas 
 **Institution:** National and Kapodistrian University of Athens (NKUA) 
+
 ---
-##Abstract##
+
+###Abstract
+
 Binary star systems (or generally multiple systems) constitute the majority of stellar systems
 in the Galaxy. However, there are very few observations of exoplanets in such systems. This work
 attempts to answer whether there is a mechanism that leads to the escape of P-type exoplanets
@@ -21,3 +25,5 @@ Next, the basic analysis is performed for P-orbits of a binary star system with 
 discovered in binary or multiple star systems, and finally, some general conclusions are drawn.
 
 *Note: Some figures may not display correctly in the GitHub preview. For full resolution, please download the PDF.*
+
+---
