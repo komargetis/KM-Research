@@ -6,6 +6,7 @@
 ---
 
 ### Abstract
+
 The double star systems or binary star is an important subject for today astrophysics, because
 of the use on research and experimental work. Through their observation is possible to calculate
 the absolute parameters of the stars (e.g. mass, radius, luminosity) and determinate various
