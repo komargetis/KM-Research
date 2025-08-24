@@ -1,8 +1,8 @@
 **BSc Thesis: HV Aqr – An Exotic Contact Binary System**
-
 **Supervisor**: Dr. Kosmas Gazeas  
 **Institution**: National and Kapodistrian University of Athens  
 
+---
 
 ### Abstract
 The double star systems or binary star is an important subject for today astrophysics, because
@@ -23,3 +23,4 @@ chapter, conclusions are drawn about the system.
 
 
 _Note: Some figures may not display correctly in the GitHub preview. For full resolution, please download the PDF._
+---
