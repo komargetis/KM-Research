@@ -40,4 +40,3 @@ Main focus: **exoplanets in binary/multiple star systems, orbital dynamics, chao
 
 ## 📄 Notes
 This repository is for **academic/research purposes**.  
-For data-sensitive analyses (e.g., raw datasets, large-scale runs), see my private repo *KM-Analysis*.  
