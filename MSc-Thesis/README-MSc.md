@@ -1,6 +1,6 @@
 **MSc Thesis: Escape mechanisms for P-type exoplanets in binary star systems**
 
-**Supervisor(s):** Dr. Matthaios Katsanikas (primary), Dr. Kosmas Gazeas 
+**Supervisors:** Dr. Matthaios Katsanikas (primary), Dr. Kosmas Gazeas 
 **Institution:** National and Kapodistrian University of Athens (NKUA) 
 
 ---
