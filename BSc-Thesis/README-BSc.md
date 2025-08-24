@@ -21,3 +21,5 @@ the absolute physical and orbital parameters of the system are calculated. The f
 presents the O-C diagram and its analysis with the help of a computer code. Finally, in the fifth
 chapter, conclusions are drawn about the system.
 
+
+_Note: Some figures may not display correctly in the GitHub preview. For full resolution, please download the PDF._
