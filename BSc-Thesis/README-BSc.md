@@ -1,4 +1,5 @@
 **BSc Thesis: HV Aqr – An Exotic Contact Binary System**
+
 **Supervisor**: Dr. Kosmas Gazeas  
 **Institution**: National and Kapodistrian University of Athens  
 
